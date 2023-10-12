@@ -1,1 +1,1 @@
-# pricing-table
+Pricing table project with flexbox
